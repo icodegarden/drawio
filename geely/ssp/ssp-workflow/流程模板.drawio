@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T08:22:48.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CDLOineWXPlqxUSgVGAp" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T08:59:38.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KxDr2l-BGRseBFavnXnt" version="24.4.4" type="github">
   <diagram name="第 1 页" id="l7ETgdYbAlDT3ln601Ar">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,12 +71,12 @@
         <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i6D_zPiAmZ7pMk7o-Lk9-29" target="i6D_zPiAmZ7pMk7o-Lk9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-36" value="流程模板id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i6D_zPiAmZ7pMk7o-Lk9-35">
+        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-36" value="流程模板id&lt;div&gt;项目id&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i6D_zPiAmZ7pMk7o-Lk9-35">
           <mxGeometry x="-0.4" y="-2" relative="1" as="geometry">
             <mxPoint x="24" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-29" value="Feign&lt;div&gt;流程&lt;span style=&quot;background-color: initial;&quot;&gt;实例化&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-29" value="Feign&lt;div&gt;流程&lt;span style=&quot;background-color: initial;&quot;&gt;实例化&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="30" y="650" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-31" value="流程实例化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -155,9 +155,6 @@
           <mxGeometry x="0.1599" relative="1" as="geometry">
             <mxPoint x="-14" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-64" value="OPENAPI&lt;div&gt;完成任务&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1090" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
