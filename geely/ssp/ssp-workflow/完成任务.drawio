@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T01:57:36.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="o43fv57GQtJ4lBBgCbmf" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T02:47:44.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tTkwQOPWWUB1va3N0H8M" version="24.4.4" type="github">
   <diagram name="第 1 页" id="l7ETgdYbAlDT3ln601Ar">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-64" value="OPENAPI&lt;div&gt;完成任务&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="30" y="587.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="642.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-1" target="t9WRf_JGf9PgAsEPYMsC-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -30,10 +30,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-2" value="查询流程实例id" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="587.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="642.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-6" value="Camunda" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
-          <mxGeometry x="430" y="585" width="100" height="65" as="geometry" />
+          <mxGeometry x="430" y="640" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-2" target="t9WRf_JGf9PgAsEPYMsC-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,14 +41,14 @@
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-10" target="t9WRf_JGf9PgAsEPYMsC-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t9WRf_JGf9PgAsEPYMsC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-10" target="t9WRf_JGf9PgAsEPYMsC-16" edge="1">
+        <mxCell id="BsxXxS-BXFkDLh6zAkJ6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t9WRf_JGf9PgAsEPYMsC-10" target="BsxXxS-BXFkDLh6zAkJ6-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-10" value="查询wf流程实例" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="697.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="752.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-12" value="流程实例表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="430" y="697.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="430" y="752.5" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-14" target="t9WRf_JGf9PgAsEPYMsC-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,23 +61,23 @@
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-14" target="t9WRf_JGf9PgAsEPYMsC-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t9WRf_JGf9PgAsEPYMsC-14" value="是否有&lt;div&gt;task_project_id&lt;/div&gt;&lt;div&gt;关联&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="250" y="917.5" width="100" height="100" as="geometry" />
+        <mxCell id="t9WRf_JGf9PgAsEPYMsC-14" value="wf流程实例是否有&lt;div&gt;task_project_id&lt;/div&gt;&lt;div&gt;关联&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="250" y="1162.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-16" target="t9WRf_JGf9PgAsEPYMsC-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-16" value="完成任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="807.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="1052.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-17" value="Camunda" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
-          <mxGeometry x="430" y="805" width="100" height="65" as="geometry" />
+          <mxGeometry x="430" y="1050" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-16" target="t9WRf_JGf9PgAsEPYMsC-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-21" value="&lt;div&gt;ssp-task&lt;/div&gt;&lt;div&gt;完成任务&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="720" y="937.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="720" y="1182.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-23" target="t9WRf_JGf9PgAsEPYMsC-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -88,35 +88,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-23" value="根据wf实例id、activity_id&lt;div&gt;查询对应的&lt;div&gt;流程实例活动&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="413.5" y="937.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="413.5" y="1182.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-28" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="270" y="1057.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="270" y="1302.5" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t9WRf_JGf9PgAsEPYMsC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-30" target="t9WRf_JGf9PgAsEPYMsC-34" edge="1">
+        <mxCell id="t9WRf_JGf9PgAsEPYMsC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-30" target="BsxXxS-BXFkDLh6zAkJ6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-30" value="查询&lt;span style=&quot;background-color: initial;&quot;&gt;流程实例活动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-33" value="Camunda" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
-          <mxGeometry x="550" y="237.5" width="100" height="65" as="geometry" />
+          <mxGeometry x="550" y="370" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-34" target="t9WRf_JGf9PgAsEPYMsC-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-34" value="查询流程实例中&lt;div&gt;activity_id相同的可办任务&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="372.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-34" target="t9WRf_JGf9PgAsEPYMsC-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-37" value="完成任务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="472.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9WRf_JGf9PgAsEPYMsC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.915;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="t9WRf_JGf9PgAsEPYMsC-37" target="t9WRf_JGf9PgAsEPYMsC-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="350" as="targetPoint" />
+            <mxPoint x="690" y="482.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BsxXxS-BXFkDLh6zAkJ6-1" value="&lt;div&gt;ssp-task&lt;/div&gt;OPENAPI&lt;div&gt;完成任务&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -124,6 +124,24 @@
         </mxCell>
         <mxCell id="BsxXxS-BXFkDLh6zAkJ6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BsxXxS-BXFkDLh6zAkJ6-1" target="t9WRf_JGf9PgAsEPYMsC-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsxXxS-BXFkDLh6zAkJ6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BsxXxS-BXFkDLh6zAkJ6-3" target="t9WRf_JGf9PgAsEPYMsC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsxXxS-BXFkDLh6zAkJ6-3" value="检查输出物等是否齐全" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BsxXxS-BXFkDLh6zAkJ6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BsxXxS-BXFkDLh6zAkJ6-6" target="BsxXxS-BXFkDLh6zAkJ6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsxXxS-BXFkDLh6zAkJ6-6" value="查询&lt;span style=&quot;background-color: initial;&quot;&gt;流程实例活动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BsxXxS-BXFkDLh6zAkJ6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BsxXxS-BXFkDLh6zAkJ6-7" target="t9WRf_JGf9PgAsEPYMsC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsxXxS-BXFkDLh6zAkJ6-7" value="检查输出物等是否齐全" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
