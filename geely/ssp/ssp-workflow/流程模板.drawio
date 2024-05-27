@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T05:22:23.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ym3cBOS3rqKjnD--RUFp" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T06:08:38.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EZwopAvg2Z2SjnHojslo" version="24.4.4" type="github">
   <diagram name="第 1 页" id="l7ETgdYbAlDT3ln601Ar">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,31 +129,6 @@
         <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-49" value="获取流程定义的xml" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i6D_zPiAmZ7pMk7o-Lk9-48" vertex="1" connectable="0">
           <mxGeometry x="-0.1692" y="-1" relative="1" as="geometry">
             <mxPoint x="6" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i6D_zPiAmZ7pMk7o-Lk9-50" target="i6D_zPiAmZ7pMk7o-Lk9-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-57" value="引擎流程实例id&lt;div&gt;candidateGroup&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i6D_zPiAmZ7pMk7o-Lk9-54" vertex="1" connectable="0">
-          <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-50" value="OPENAPI&lt;div&gt;查询流程中我可办的任务&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#CCFFE6;" parent="1" vertex="1">
-          <mxGeometry x="30" y="978" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-51" value="查询" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="978" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-52" value="Camunda" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" parent="1" vertex="1">
-          <mxGeometry x="500" y="973" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="i6D_zPiAmZ7pMk7o-Lk9-51" target="i6D_zPiAmZ7pMk7o-Lk9-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="i6D_zPiAmZ7pMk7o-Lk9-62" value="根据流程实例id查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i6D_zPiAmZ7pMk7o-Lk9-61" vertex="1" connectable="0">
-          <mxGeometry x="0.1599" relative="1" as="geometry">
-            <mxPoint x="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
